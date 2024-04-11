@@ -1,0 +1,3 @@
+I dove into Project Euler's problem #3 (https://projecteuler.net/problem=3) and started coding my own solution.  While exploring, I came across the primes crate after searching for "Rust prime struct", which solved this challenge directly. This highlights the useful ecosystem of Rust libraries – there's likely a well-established crate for many tasks you encounter.
+
+In this case, using the primes crate might be the most efficient approach. However, I'm also considering implementing my own solution to solidify my understanding of Rust concepts.
